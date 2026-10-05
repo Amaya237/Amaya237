@@ -8,7 +8,7 @@
 - 💻 Building projects across **web development, data analysis, and networking**
 - 🌐 Exploring **networking fundamentals** (OSI model, switching, Cisco IOS) alongside my coursework
 - 🌱 Always learning — currently sharpening my skills in modern web frameworks and clean code practices
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[amayafranklin237@gmail.com]**
 
 ---
 
